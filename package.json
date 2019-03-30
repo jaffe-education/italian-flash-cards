@@ -2,10 +2,14 @@
   "name": "italian-flash-cards",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
+    "googleapis": "^39.1.0",
+    "ramda": "^0.26.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "tabletop": "^1.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
